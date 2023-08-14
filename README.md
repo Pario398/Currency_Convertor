@@ -24,6 +24,7 @@ Select an option by entering the corresponding number.
 ## Functions
 
 **exchange(fromcurrency, tocurrency, quantity):**
+
 This function converts a given quantity of one currency to another using the latest exchange rate retrieved from Yahoo Finance.
 
 **show_currencies():**
